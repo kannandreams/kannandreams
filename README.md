@@ -1,6 +1,7 @@
-### Hey, I'm Kannan Kalidasan 
+<h1 align="center">Hi , I'm Kannan Kalidasan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-**Professional summary**
+
+ About me
 
 - 🚩 Pi-shaped Data Lead has around 16 years of experience in leading, architecting, and developing scalable Data / ML platforms on cloud and on-prem.
 - 🛠 Specialized in Data Engineering, Data Architecture, Analytics, and Machine Learning
