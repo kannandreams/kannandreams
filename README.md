@@ -10,10 +10,10 @@
 - 👨🏻 ENFJ ( “The Protagonist” ) is my personality trait as per the 16 Personalities test.
 - 👨‍💻 Passionate about technology
 
-😄 Pronouns: He/Him
-🌱 I’m currently learning Rust, React and Web3 . 🤖
-🔭 I’m currently working on "Startup idea"
-👯 I’m looking to collaborate on Startups, Data related projects
-⚡: Fun fact: I am big fan of Egg Puffs. I used to eat as my breakfast for 4 years everyday 😄 
-📫: You can email me at: kannanpoem1984@gmail.com
+- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning Rust, React and Web3 . 🤖
+- 🔭 I’m currently working on "Startup idea"
+- 👯 I’m looking to collaborate on Startups, Data related projects
+- ⚡: Fun fact: I am big fan of Egg Puffs. I used to eat as my breakfast for 4 years everyday 😄 
+- 📫: You can email me at: kannanpoem1984@gmail.com
 
