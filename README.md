@@ -12,7 +12,6 @@
 - 👨‍💻 Passionate about technology
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning Go . 🤖
 - 🔭 I do experimental side projects
 - 👯 I’m looking to collaborate on Startups, Data related projects
 - ⚡ Fun fact: I am big fan of Egg Puffs. It was the only breakfast with tea for 4 years 😄 but not anymore as habit
