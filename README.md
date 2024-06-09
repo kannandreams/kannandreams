@@ -14,6 +14,6 @@
 - 😄 Pronouns: He/Him
 - 🔭 I do experimental side projects
 - 👯 I’m looking to collaborate on Startups, Data related projects
-- ⚡ Fun fact: I am big fan of Egg Puffs. It was the only breakfast with tea for 4 years 😄 but not anymore as habit
+- ⚡ Fun fact: I am read magazines or news paper from last page
 - 📫: You can email me at: kannanpoem1984@gmail.com
 
