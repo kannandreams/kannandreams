@@ -11,9 +11,9 @@
 - 👨🏻 ENFJ ( “The Protagonist” ) is my personality trait as per the 16 Personalities test.
 - 👨‍💻 Passionate about technology
 
-- 😄 Pronouns: He/Him
 - 🔭 I do experimental side projects
 - 👯 open to collobrate for open source projects, Startups data consulting, Data expertise
+  
 - ⚡ Fun fact: I am read magazines or news paper from last page
 - 📫: You can email me at: kannanpoem1984@gmail.com
 
