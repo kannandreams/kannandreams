@@ -13,7 +13,7 @@
 
 - 😄 Pronouns: He/Him
 - 🔭 I do experimental side projects
-- 👯 I’m looking to collaborate on Startups, Data related projects
+- 👯 open to collobrate for open source projects, Startups data consulting, Data expertise
 - ⚡ Fun fact: I am read magazines or news paper from last page
 - 📫: You can email me at: kannanpoem1984@gmail.com
 
