@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Kannan Kalidasan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-- 🚩 Pi-shaped Data Expert was coding from 2006.
+- 🚩 Pi-shaped Software Engineer was coding from 2006.
 - 🛠 Specialized in Data Engineering, Data Architecture, Analytics, and Machine Learning. I am Data Guy by profession.
 - 🧢 Worked for <100 people StartUps to 10000+ people Enterprises.
 - 💎 Data Engineering & Machine Learning/AI experience is a perfect combo. I love to build data products.
