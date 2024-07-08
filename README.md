@@ -15,5 +15,10 @@
 - 👯 open to collobrate for open source projects, Startups data consulting, Data expertise
   
 - ⚡ Fun fact: I am read magazines or news paper from last page
-- 📫: You can email me at: kannanpoem1984@gmail.com
+
+
+<a href='https://www.linkedin.com/in/kannandreams/' style='text-decoration: none;'>
+    <img src='https://img.shields.io/badge/LinkedIn-Black?style=for-the-badge&color=0a66c2' alt='LinkedIn'>
+</a>
+
 
