@@ -34,5 +34,8 @@
 - [Introduction and Overview of Generative AI](https://informedideas.substack.com/p/introduction-and-overview-of-generative)
 
 
+### My Dormant Github accounts used in work :( 
 
+- [kk-dh](https://github.com/kk-dh)
+- [kk-nutmeg](https://github.com/kk-nutmeg)
 
