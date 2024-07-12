@@ -18,7 +18,7 @@
     <img src='https://img.shields.io/badge/LinkedIn-Black?style=for-the-badge&color=0a66c2' alt='LinkedIn'>
 </a>
 
-<section style="padding: 1rem; width: 80%; max-width: 380px; min-height: 150px;"><img alt="Impact swag image" class="" src="https://hcti.io/v1/image/fc7ee793-d448-4e8a-929b-8d2d1cb67d86" height="20%" width="40%" style="background-color: rgb(225, 49, 108); border-radius: 14px;"></section>
+<section style="padding: 1rem; width: 80%; max-width: 380px; min-height: 150px;"><img alt="Impact swag image" class="" src="https://hcti.io/v1/image/106b3b6b-08b5-4da3-a3ac-a23cd7f72242" height="100%" width="40%" style="background-color: rgb(225, 49, 108); border-radius: 14px;"></section>
 
 <h3 align="left">🚀 Some of Tech Stacks...</h3>
 
