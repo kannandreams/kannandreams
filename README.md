@@ -19,7 +19,10 @@
 </a>
 
 
-<section style="padding: 1rem; width: 80%; max-width: 380px; min-height: 150px;"><img alt="Impact swag image" class="" src="https://hcti.io/v1/image/c344339b-773e-478a-9453-2c6b1c535d78" height="100%" width="40%" style="background-color: rgb(225, 49, 108); border-radius: 14px;"></section>
+<section style="padding: 1rem; width: 80%; max-width: 380px; min-height: 150px;"><img alt="Impact swag image" class="" src="https://github.com/user-attachments/assets/e31327e3-640a-4653-8b27-59e88463a956" height="100%" width="40%" style="background-color: rgb(225, 49, 108); border-radius: 14px;"></section>
+
+
+
 
 <h3 align="left">🚀 Some of Tech Stacks...</h3>
 
