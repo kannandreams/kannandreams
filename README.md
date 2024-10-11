@@ -22,9 +22,9 @@
 
 <h3 align="left">🚀 Some of Tech Stacks...</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,python,docker,kubernetes,terraform,linux,grafana,elasticsearch&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,rust,javascript,docker,kubernetes,terraform,linux,grafana,elasticsearch,aws,gcp,azure&perline=10)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=flask,fastapi,react,javascript,nodejs,mongodb,figma,appwrite&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,fastapi,react,nodejs,mongodb,figma,appwrite&perline=10)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=postgres,kafka,tensorflow,pytorch,sklearn,anaconda&perline=10)](https://skillicons.dev)
 <br>
