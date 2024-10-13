@@ -10,7 +10,7 @@
 - 🔭 I do experimental side projects. 
 - 👯 open to collobrate for open source projects, Startups data consulting, Data expertise.
   
-- ⚡ Fun fact: I have a habit of reading magazines or news papers in LIFO way :D
+- ⚡ Fun fact: I am big fan of Egg Puffs 🥟. It was the only breakfast for 4 years 😄 but not anymore as habit
 
 <h3 align="left">🤝 Connect with me</h3>
 <p align="left">
