@@ -5,7 +5,7 @@
 - 🧢 Worked for <100 people StartUps to 10000+ people Enterprises.
 - 💎 Data Engineering & Machine Learning/AI experience is a perfect combo. I love to build data products.
 - 💡 Highly inclined towards product & strategic thinking that can help to bring the vision to Goals.
-- 👨🏻 ENFJ ( “The Protagonist” ) is my personality trait as per the 16 Personalities test.
+- 👨🏻 <a href='https://www.16personalities.com/enfj-personality'> ENFJ </a> ( “The Protagonist” ) is my personality trait as per the 16 Personalities test.
 - 👨‍💻 Passionate about technology.
 - 🔭 I do experimental side projects. 
 - 👯 open to collobrate for open source projects, Startups data consulting, Data expertise.
