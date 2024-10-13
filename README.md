@@ -14,7 +14,7 @@
 
 <h3 align="left">🤝 Connect with me</h3>
 <p align="left">
-<a href='https://www.linkedin.com/in/sagarshahuk/' style='text-decoration: none;'>
+<a href='https://www.linkedin.com/in/kannandreams/' style='text-decoration: none;'>
     <img src='https://img.shields.io/badge/LinkedIn-Black?style=for-the-badge&color=0a66c2' alt='LinkedIn'>
 </a>
 
