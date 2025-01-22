@@ -60,5 +60,4 @@
 
 - [kk-dh](https://github.com/kk-dh)
 - [kk-nutmeg](https://github.com/kk-nutmeg)
-![image](https://github.com/user-attachments/assets/b82cb942-ec0e-49c4-bb5a-3558c884ea25)
 
