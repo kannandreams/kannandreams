@@ -51,9 +51,12 @@
 </a>
 
 <h3 align="left">🧵 Read my blog</h3>
-- (How to Pick the Right Tech for Your Startup)[https://eggpuffengineer.substack.com/p/how-to-pick-the-right-tech-for-your]
-- (Decades of Data: My Journey from Data Roles to ML Engineer)[https://kannandreams.medium.com/evaluation-of-data-roles-in-20-years-and-how-it-transformed-me-as-ml-engineer-97e3b2a45352]
-- (Introduction and Overview of Generative AI)[https://informedideas.substack.com/p/introduction-and-overview-of-generative]
+
+[How to Pick the Right Tech for Your Startup](https://eggpuffengineer.substack.com/p/how-to-pick-the-right-tech-for-your)
+
+[Decades of Data: My Journey from Data Roles to ML Engineer](https://kannandreams.medium.com/evaluation-of-data-roles-in-20-years-and-how-it-transformed-me-as-ml-engineer-97e3b2a45352)
+
+[Introduction and Overview of Generative AI](https://informedideas.substack.com/p/introduction-and-overview-of-generative)
 
 
 ### My Dormant Github accounts used in work :( 
