@@ -27,7 +27,7 @@
 <br>
 [![My Skills](https://skillicons.dev/icons?i=python,rust,postgres,kafka,sklearn,fastapi,aws,gcp,azure&perline=10)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=flask,javascript,react,nodejs,mongodb,vite,css,git,html,figma&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,javascript,react,nodejs,mongodb,css,git,html,figma&perline=10)](https://skillicons.dev)
 <br>
 
 <h3 align="left">🚀 Modern Data Engineering Stacks...</h3>
