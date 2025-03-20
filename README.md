@@ -20,7 +20,9 @@
 <h2>Publications / Contributions</h2>
 
 [🥟 The Egg Puff Engineer 👨‍💻](https://eggpuffengineer.substack.com/)
-- This weekly newsletter is my little corner of the internet where I share crunchy, bite-sized insights on:
+<b>
+This weekly newsletter is my little corner of the internet where I share crunchy, bite-sized insights on:
+</b>
   
 ✅ Data & AI – Exploring the latest trends, evolving data systems, and real-world challenges.
 
