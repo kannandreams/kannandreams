@@ -12,6 +12,21 @@
   
 - ⚡ Fun fact: I am big fan of Egg Puffs 🥟. It was the only breakfast for 4 years 😄 but not anymore as habit
 
+<h2>Publications / Contributions</h2>
+
+[🥟 The Egg Puff Engineer 👨‍💻](https://eggpuffengineer.substack.com/)
+- This weekly newsletter is my little corner of the internet where I share crunchy, bite-sized insights on:
+  
+✅ Data & AI – Exploring the latest trends, evolving data systems, and real-world challenges.
+
+✅ Software Engineering – Insights on best practices, architecture, and writing scalable code.
+
+✅ Tech Leadership – Navigating the complexities of building scalable data platforms and deriving meaningful insights.
+
+✅ Experiences & Reflections – Sharing lessons learned, personal insights, and a philosophical take on the tech world.
+
+<img alt="Impact swag image" class="" src="https://github.com/user-attachments/assets/db68ce0e-c0f4-40ea-88b5-b14133b349ae" height="20%" width="20%">
+
 <h3 align="left">🤝 Connect with me</h3>
 <p align="left">
 <a href='https://www.linkedin.com/in/kannandreams/' style='text-decoration: none;'>
