@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Kannan Kalidasan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Kannan Kalidasan ( KK ) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 - 🚩 Pi-shaped Software Engineer was coding from 2005.
 - 🛠 Specialized in Data Engineering, Data Architecture, Analytics, and Machine Learning. I am Data Guy by profession.
@@ -11,6 +11,11 @@
 - 👯 open to collobrate for open source projects, Startups data consulting, Data expertise.
   
 - ⚡ Fun fact: I am big fan of Egg Puffs 🥟. It was the only breakfast for 4 years 😄 but not anymore as habit
+
+<p align="left">
+<a href='https://www.linkedin.com/in/kannandreams/' style='text-decoration: none;'>
+    <img src='https://img.shields.io/badge/LinkedIn-Black?style=for-the-badge&color=0a66c2' alt='LinkedIn'>
+</a>
 
 <h2>Publications / Contributions</h2>
 
@@ -26,12 +31,6 @@
 ✅ Experiences & Reflections – Sharing lessons learned, personal insights, and a philosophical take on the tech world.
 
 <img alt="Impact swag image" class="" src="https://github.com/user-attachments/assets/db68ce0e-c0f4-40ea-88b5-b14133b349ae" height="20%" width="20%">
-
-<h3 align="left">🤝 Connect with me</h3>
-<p align="left">
-<a href='https://www.linkedin.com/in/kannandreams/' style='text-decoration: none;'>
-    <img src='https://img.shields.io/badge/LinkedIn-Black?style=for-the-badge&color=0a66c2' alt='LinkedIn'>
-</a>
 
 <section style="padding: 1rem; width: 80%; max-width: 380px; min-height: 150px;"><img alt="Impact swag image" class="" src="https://github.com/user-attachments/assets/2de821f2-796c-491a-ac61-e9214184d85f" height="100%" width="40%" style="background-color: rgb(225, 49, 108); border-radius: 14px;"></section>
 
