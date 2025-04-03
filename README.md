@@ -32,7 +32,8 @@ This weekly newsletter is my little corner of the internet where I share crunchy
 
 ✅ Experiences & Reflections – Sharing lessons learned, personal insights, and a philosophical take on the tech world.
 
-<img alt="Impact swag image" class="" src="https://github.com/user-attachments/assets/db68ce0e-c0f4-40ea-88b5-b14133b349ae" height="20%" width="20%">
+
+<img alt="Impact swag image" class="" src="https://github.com/user-attachments/assets/2a053f6a-ac03-45a3-8eda-6b550424d14a" height="20%" width="20%">
 
 <section style="padding: 1rem; width: 80%; max-width: 380px; min-height: 150px;"><img alt="Impact swag image" class="" src="https://github.com/user-attachments/assets/2de821f2-796c-491a-ac61-e9214184d85f" height="100%" width="40%" style="background-color: rgb(225, 49, 108); border-radius: 14px;"></section>
 
