@@ -17,23 +17,13 @@
     <img src='https://img.shields.io/badge/LinkedIn-Black?style=for-the-badge&color=0a66c2' alt='LinkedIn'>
 </a>
 
-<h2>Publications / Contributions</h2>
+<h2>Newsletter</h2>
 
-[🥟 The Egg Puff Engineer 👨‍💻](https://eggpuffengineer.substack.com/)
-<b>
-This weekly newsletter is my little corner of the internet where I share crunchy, bite-sized insights on:
-</b>
-  
-✅ Data & AI – Exploring the latest trends, evolving data systems, and real-world challenges.
+[When Engineers meet AI](https://engineersmeetai.substack.com/)
 
-✅ Software Engineering – Insights on best practices, architecture, and writing scalable code.
+![image](https://github.com/user-attachments/assets/92d6af09-095e-4b8f-8c65-f62bd172543f)
 
-✅ Tech Leadership – Navigating the complexities of building scalable data platforms and deriving meaningful insights.
-
-✅ Experiences & Reflections – Sharing lessons learned, personal insights, and a philosophical take on the tech world.
-
-
-<img alt="Impact swag image" class="" src="https://github.com/user-attachments/assets/2a053f6a-ac03-45a3-8eda-6b550424d14a" height="20%" width="20%">
+<h2>Community Contributions</h2>
 
 <section style="padding: 1rem; width: 80%; max-width: 380px; min-height: 150px;"><img alt="Impact swag image" class="" src="https://github.com/user-attachments/assets/2de821f2-796c-491a-ac61-e9214184d85f" height="100%" width="40%" style="background-color: rgb(225, 49, 108); border-radius: 14px;"></section>
 
