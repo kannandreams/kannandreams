@@ -28,7 +28,9 @@
 <section style="padding: 1rem; width: 80%; max-width: 300px; min-height: 430px;"><img alt="Impact swag image" class="" src="https://github.com/user-attachments/assets/ebb87b31-2181-493c-84f5-5399d38fb1a5" height="280%" width="40%" style="background-color: rgb(225, 49, 108); border-radius: 14px;"></section>
 
 
+<h3 align="left">🧵 Open Source Projects</h3>
 
+Work in Progress
 
 <h3 align="left">🚀 Some of Tech Stacks...</h3>
 
@@ -59,16 +61,9 @@
     <img src='https://img.shields.io/badge/duckdb-Black?style=for-the-badge&color=yellow' alt='DuckDB'>
 </a>
 
-<h3 align="left">🧵 Read my blog</h3>
-
-[How to Pick the Right Tech for Your Startup](https://eggpuffengineer.substack.com/p/how-to-pick-the-right-tech-for-your)
-
-[Decades of Data: My Journey from Data Roles to ML Engineer](https://kannandreams.medium.com/evaluation-of-data-roles-in-20-years-and-how-it-transformed-me-as-ml-engineer-97e3b2a45352)
-
-[Introduction and Overview of Generative AI](https://informedideas.substack.com/p/introduction-and-overview-of-generative)
 
 
-### My Dormant Github accounts used in work :( 
+### My Dormant Github accounts contributions used in work :( 
 
 - [kk-dh](https://github.com/kk-dh)
 - [kk-nutmeg](https://github.com/kk-nutmeg)
