@@ -32,35 +32,6 @@
 
 Work in Progress
 
-<h3 align="left">🚀 Some of Tech Stacks...</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,linux,grafana,elasticsearch,prometheus&perline=10)](https://skillicons.dev)
-<br>
-[![My Skills](https://skillicons.dev/icons?i=python,rust,postgres,kafka,sklearn,fastapi,aws,gcp,azure&perline=10)](https://skillicons.dev)
-<br>
-[![My Skills](https://skillicons.dev/icons?i=flask,javascript,react,nodejs,mongodb,css,git,html,figma&perline=10)](https://skillicons.dev)
-<br>
-
-<h3 align="left">🚀 Modern Data Engineering Stacks...</h3>
-<a href='https://www.snowflake.com/en/' style='text-decoration: none;'>
-    <img src='https://img.shields.io/badge/Snowflake-Black?style=for-the-badge&color=61dafb' alt='Snowflake'>
-</a>
-<a href='https://airflow.apache.org' style='text-decoration: none;'>
-    <img src='https://img.shields.io/badge/Airflow-Black?style=for-the-badge&color=e10098' alt='Airflow'>
-</a>
-<a href='https://www.getdbt.com/' style='text-decoration: none;'>
-    <img src='https://img.shields.io/badge/Dbt-Black?style=for-the-badge&color=f05032' alt='Dbt'>
-</a>
-<a href='https://spark.apache.org/' style='text-decoration: none;'>
-    <img src='https://img.shields.io/badge/Spark-Black?style=for-the-badge&color=c21325' alt='Apache Spark'>
-</a>
-<a href='https://iceberg.apache.org/' style='text-decoration: none;'>
-    <img src='https://img.shields.io/badge/Iceberg-Black?style=for-the-badge&color=61dafb' alt='Apache Iceberg'>
-</a>
-<a href='https://duckdb.org/' style='text-decoration: none;'>
-    <img src='https://img.shields.io/badge/duckdb-Black?style=for-the-badge&color=yellow' alt='DuckDB'>
-</a>
-
 
 
 ### My Dormant Github accounts contributions used in work :( 
