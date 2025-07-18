@@ -12,10 +12,11 @@
   
 - ⚡ Fun fact: I am big fan of Egg Puffs 🥟. It was the only breakfast for 4 years 😄 but not anymore as habit
 
+[Portfolio Website](https://kannandreams.github.io/) | [LinkedIn](https://www.linkedin.com/in/kannandreams/)
+
+<img width="1314" height="504" alt="image" src="https://github.com/user-attachments/assets/dfc85c47-9676-4ef2-8501-ba127f216762" />
+
 <p align="left">
-<a href='https://www.linkedin.com/in/kannandreams/' style='text-decoration: none;'>
-    <img src='https://img.shields.io/badge/LinkedIn-Black?style=for-the-badge&color=0a66c2' alt='LinkedIn'>
-</a>
 
 <h2>Newsletter</h2>
 
