@@ -26,7 +26,7 @@
 
 <h2>Community Contributions</h2>
 
-<section style="padding: 1rem; width: 80%; max-width: 300px; min-height: 430px;"><img alt="Impact swag image" class="" src="https://github.com/user-attachments/assets/ebb87b31-2181-493c-84f5-5399d38fb1a5" height="280%" width="40%" style="background-color: rgb(225, 49, 108); border-radius: 14px;"></section>
+<section style="padding: 1rem; width: 80%; max-width: 300px; min-height: 430px;"><img alt="Impact swag image" class="" src="https://github.com/user-attachments/assets/2e7301bc-80a0-4761-ae4e-93928b118bb2" height="280%" width="40%" style="background-color: rgb(225, 49, 108); border-radius: 14px;"></section>
 
 
 <h3 align="left">🧵 Open Source Projects</h3>
