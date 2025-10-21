@@ -14,7 +14,8 @@
 
 [Portfolio Website](https://kannandreams.github.io/) | [LinkedIn](https://www.linkedin.com/in/kannandreams/)
 
-<img width="1314" height="504" alt="image" src="https://github.com/user-attachments/assets/dfc85c47-9676-4ef2-8501-ba127f216762" />
+<img width="1310" height="505" alt="image" src="https://github.com/user-attachments/assets/9c03dfe5-25f5-4306-99f0-d88aa6483263" />
+
 
 <p align="left">
 
