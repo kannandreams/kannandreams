@@ -32,9 +32,12 @@
 
 <h3 align="left">🧵 Open Source Projects</h3>
 
-[Learning Rust - Compelete Roadmap / Guide ](https://github.com/kannandreams/learning-rust)
-[ROSE - Robotics for Software Engineers](https://github.com/kannandreams/robotics-for-sofware-engineers)
+#### Knowledge base
+- [Learning Rust - Compelete Roadmap / Guide ](https://github.com/kannandreams/learning-rust)
+- [ROSE - Robotics for Software Engineers](https://github.com/kannandreams/robotics-for-sofware-engineers)
+- [When Engineers meet AI - Publications References ](https://github.com/kannandreams/when-engineers-meet-ai)
 
+#### Tools
 
 
 ### My Dormant Github accounts contributions used in work :( 
