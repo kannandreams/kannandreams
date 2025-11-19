@@ -27,12 +27,13 @@
 
 <h2>Community Contributions</h2>
 
-<section style="padding: 1rem; width: 80%; max-width: 300px; min-height: 430px;"><img alt="Impact swag image" class="" src="https://github.com/user-attachments/assets/2e7301bc-80a0-4761-ae4e-93928b118bb2" height="280%" width="40%" style="background-color: rgb(225, 49, 108); border-radius: 14px;"></section>
+<section style="padding: 1rem; width: 80%; max-width: 300px; min-height: 430px;"><img alt="Impact swag image" class="" src="https://github.com/user-attachments/assets/b6b6ea47-6bed-4429-a980-4869c566580c" height="280%" width="40%" style="background-color: rgb(225, 49, 108); border-radius: 14px;"></section>
 
 
 <h3 align="left">🧵 Open Source Projects</h3>
 
-Work in Progress
+[Learning Rust - Compelete Roadmap / Guide ](https://github.com/kannandreams/learning-rust)
+[ROSE - Robotics for Software Engineers](https://github.com/kannandreams/robotics-for-sofware-engineers)
 
 
 
