@@ -41,11 +41,8 @@
 - [ROSE - Robotics for Software Engineers](https://github.com/kannandreams/robotics-for-sofware-engineers)
 - [When Engineers meet AI - Publications References ](https://github.com/kannandreams/when-engineers-meet-ai)
 
-#### Tools
+#### OSS
 
-
-### My Dormant Github accounts contributions used in work :( 
-
-- [kk-dh](https://github.com/kk-dh)
-- [kk-nutmeg](https://github.com/kk-nutmeg)
+- tuff
+- glyf
 
