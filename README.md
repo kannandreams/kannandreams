@@ -27,8 +27,6 @@
 
 [Subscribe on Substack ( Weekly deep dive posts and frequent substack notes )](https://engineersmeetai.substack.com/)
 
-[Subscribe on LinkedIn ( Monthly Edition )](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7317136485651013632)
-
 <h2>Community Contributions</h2>
 
 <section style="padding: 1rem; width: 80%; max-width: 300px; min-height: 430px;"><img alt="Impact swag image" class="" src="https://github.com/user-attachments/assets/b6b6ea47-6bed-4429-a980-4869c566580c" height="280%" width="40%" style="background-color: rgb(225, 49, 108); border-radius: 14px;"></section>
