@@ -40,7 +40,7 @@
 - [When Engineers meet AI - Publications References ](https://github.com/kannandreams/when-engineers-meet-ai)
 
 #### OSS
-
+- [Secchi - Opensource Package Intelligence](https://github.com/kannandreams/secchi)
 - tuff
 - glyf
 
