@@ -1,5 +1,7 @@
 <h1 align="center">Hi , I'm KK <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<h2 align="left"> About Me</h2>
+ 
 - 🚩 Pi-shaped Software Engineer was coding from 2005.
 - 🛠 Specialized in Data Engineering, Analytics, and Machine Learning in Production. I am Data Guy by profession.
 - 🧢 Worked for <100 people StartUps to 10000+ people Enterprises.
@@ -14,33 +16,22 @@
 
 [Website](https://kannandreams.github.io/) | [LinkedIn](https://www.linkedin.com/in/kannandreams/)
 
-<img width="1010" height="405" alt="image" src="https://github.com/user-attachments/assets/9c03dfe5-25f5-4306-99f0-d88aa6483263" />
-
 
 <p align="left">
 
-<h2>Newsletter</h2>
+<h2><img width="30" height="30" alt="substack" src="https://github.com/user-attachments/assets/cd60df5a-5228-46a6-9431-77323fcb7c9e" />
+Substack Newsletter</h2>
 
-[When Engineers meet AI](https://engineersmeetai.substack.com/)
+[When Engineers meet AI](https://engineersmeetai.substack.com/) <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/d094045b-fe63-4feb-b644-1ce96a5c66dd" />
 
-![image](https://github.com/user-attachments/assets/92d6af09-095e-4b8f-8c65-f62bd172543f)
-
-[Subscribe on Substack ( Weekly deep dive posts and frequent substack notes )](https://engineersmeetai.substack.com/)
-
-<h2>Community Contributions</h2>
-
-<section style="padding: 1rem; width: 80%; max-width: 300px; min-height: 430px;"><img alt="Impact swag image" class="" src="https://github.com/user-attachments/assets/b6b6ea47-6bed-4429-a980-4869c566580c" height="280%" width="40%" style="background-color: rgb(225, 49, 108); border-radius: 14px;"></section>
+Read about how to create scalable, intelligent systems; spanning Data, AI Tooling, Software Engineering, and Engineering Philosophy.
 
 
-<h3 align="left">🧵 Open Source Projects</h3>
+<h2 align="left"> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/6806ad0a-2049-475b-a928-bafad0c1d1d4" />
+ Open Source Projects</h2>
 
-
-#### OSS
 - [Secchi - Opensource Package Intelligence](https://github.com/kannandreams/secchi)
 - tuff
 - glyf
 
-#### Knowledge base
-- [Learning Rust - Compelete Roadmap / Guide ](https://github.com/kannandreams/learning-rust)
-- [ROSE - Robotics for Software Engineers](https://github.com/kannandreams/robotics-for-sofware-engineers)
-- [When Engineers meet AI - Publications References ](https://github.com/kannandreams/when-engineers-meet-ai)
+
