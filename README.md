@@ -9,7 +9,7 @@
 - 💡 Highly inclined towards product & strategic thinking that can help to bring the vision to Goals.
 - 👨🏻 <a href='https://www.16personalities.com/enfj-personality'> ENFJ </a> ( “The Protagonist” ) is my personality trait as per the 16 Personalities test.
 - 👨‍💻 Passionate about technology.
-- 🔭 I do experimental side projects.
+- 🔭 I do experimental open source projects.
 - 👯 open to collobrate for open source projects, data consulting for non-profit orgs
   
 - ⚡ Fun fact: I am big fan of Egg Puffs 🥟. It was the only breakfast for 4 years 😄 but not anymore as habit
