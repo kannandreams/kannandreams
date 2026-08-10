@@ -2,15 +2,15 @@
 
 <h2 align="left"> About Me</h2>
 
-› Pi-shaped Software Engineer was coding from 2005.
-› Specialized in Data Engineering, Analytics, and Machine Learning in Production. I am Data Guy by profession.
-› Worked for <100 people StartUps to 10000+ people Enterprises.
-› Data Engineering & Machine Learning/AI experience is a perfect combo. I love to build Data Products / Infra.
-› Highly inclined towards product & strategic thinking that can help to bring the vision to Goals.
-› ENFJ (“The Protagonist”) is my personality trait as per the 16 Personalities test.
-› Passionate about technology.
-› I do experimental open source projects.
-› Open to collaborate for open source projects, data consulting for non-profit orgs.
+› Pi-shaped Software Engineer was coding from 2005. <br>
+› Specialized in Data Engineering, Analytics, and Machine Learning in Production. I am Data Guy by profession. <br>
+› Worked for <100 people StartUps to 10000+ people Enterprises. <br>
+› Data Engineering & Machine Learning/AI experience is a perfect combo. I love to build Data Products / Infra. <br>
+› Highly inclined towards product & strategic thinking that can help to bring the vision to Goals. <br>
+› [ENFJ](https://www.16personalities.com/enfj-personality) (“The Protagonist”) is my personality trait as per the 16 Personalities test. <br>
+› Passionate about technology. <br>
+› I do experimental open source projects. <br>
+› Open to collaborate for open source projects, data consulting for non-profit orgs. <br>
 › Fun fact: I am big fan of Egg Puffs 🥟. It was the only breakfast for 4 years 😄 but not anymore as habit.
 
 [Website](https://kannandreams.github.io/) | [LinkedIn](https://www.linkedin.com/in/kannandreams/)
