@@ -13,7 +13,7 @@
 › Open to collaborate for open source projects, data consulting for non-profit orgs. <br>
 › Fun fact: I am big fan of Egg Puffs 🥟. It was the only breakfast for 4 years 😄 but not anymore as habit.
 
-[Website](https://kannandreams.github.io/) | [LinkedIn](https://www.linkedin.com/in/kannandreams/)
+[My Website](https://kannandreams.github.io/) | [LinkedIn](https://www.linkedin.com/in/kannandreams/)
 
 
 <p align="left">
