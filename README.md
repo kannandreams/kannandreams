@@ -30,7 +30,7 @@ Read about how to create scalable, intelligent systems; spanning Data, AI Toolin
  Open Source Projects</h2>
 
 - [glyf - Open Source Visualisation build tool to data pipeline](https://glyf.pages.dev)
-- [Secchi - Opensource Package Intelligence](https://github.com/kannandreams/secchi)
 - [tuff - Capability Lifecycle Manager for Agents](https://github.com/kannandreams/tuff)
+- [Secchi - CLI Analytics](https://github.com/kannandreams/secchi)
 
 
