@@ -21,8 +21,9 @@
 <h2><img width="30" height="30" alt="substack" src="https://github.com/user-attachments/assets/cd60df5a-5228-46a6-9431-77323fcb7c9e" />
 Substack Newsletter</h2>
 
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/d094045b-fe63-4feb-b644-1ce96a5c66dd" />[When Engineers meet AI](https://engineersmeetai.substack.com/) 
+[When Engineers meet AI](https://engineersmeetai.substack.com/) 
 
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/d094045b-fe63-4feb-b644-1ce96a5c66dd" />
 Read about how to create scalable, intelligent systems; spanning Data, AI Tooling, Software Engineering, and Engineering Philosophy.
 
 
