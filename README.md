@@ -11,7 +11,7 @@
 › Passionate about technology. <br>
 › I do experimental open source projects. <br>
 › Open to collaborate for open source projects, data consulting for non-profit orgs. <br>
-› Fun fact: I am big fan of Egg Puffs 🥟. It was the only breakfast for 4 years 😄 but not anymore as habit.
+› Fun fact: I am big fan of Egg Puffs 🥟. It was the only breakfast for many years 😄 but not anymore as habit.
 
 [My Website](https://kannandreams.github.io/) | [LinkedIn](https://www.linkedin.com/in/kannandreams/)
 
