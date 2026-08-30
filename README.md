@@ -32,6 +32,6 @@ Read about how to create scalable, intelligent systems; spanning Data, AI Toolin
 
 - [glyf - Open Source Visualisation build tool to data pipeline](https://glyf.pages.dev)
 - [tuff - Capability Lifecycle Manager for Agents](https://github.com/kannandreams/tuff)
-- [Secchi - CLI Analytics](https://github.com/kannandreams/secchi)
+- [Secchi - Open Source Package & CLI Analytics](https://github.com/kannandreams/secchi)
 
 
