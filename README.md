@@ -1,6 +1,8 @@
 <h1 align="center">Hi , I'm KK <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h2 align="left"> About Me</h2>
+<img width="80" height="80" alt="meditating-avatar" src="https://github.com/user-attachments/assets/7b44d98a-7b92-4fe9-a82b-529d05e0562f" />
+
 
 › Pi-shaped Software Engineer was coding from 2005. <br>
 › Specialized in Data Engineering, Analytics, and Machine Learning in Production. I am Data Guy by profession. <br>
