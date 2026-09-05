@@ -18,13 +18,13 @@
 
 <p align="left">
 
-<h2><img width="30" height="30" alt="substack" src="https://github.com/user-attachments/assets/cd60df5a-5228-46a6-9431-77323fcb7c9e" />
+<h2><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/d094045b-fe63-4feb-b644-1ce96a5c66dd" />
 Substack Newsletter</h2>
 
 [When Engineers meet AI](https://engineersmeetai.substack.com/) 
 
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/d094045b-fe63-4feb-b644-1ce96a5c66dd" />
 Read about how to create scalable, intelligent systems; spanning Data, AI Tooling, Software Engineering, and Engineering Philosophy.
+
 
 
 <h2 align="left"> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/6806ad0a-2049-475b-a928-bafad0c1d1d4" />
