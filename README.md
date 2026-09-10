@@ -31,6 +31,7 @@ Read about how to create scalable, intelligent systems; spanning Data, AI Toolin
 
 <h2 align="left"> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/6806ad0a-2049-475b-a928-bafad0c1d1d4" />
  Open Source Projects</h2>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -40,16 +41,12 @@ Read about how to create scalable, intelligent systems; spanning Data, AI Toolin
 </p>
 
 <h3 align="center">
-  <a href="https://github.com/kannandreams/agent-top">agent-top</a>
+  <a href="https://agenttop.dev">agent-top</a>
 </h3>
 
 <p align="center"><strong>htop for local coding agents</strong></p>
 
 Monitor Claude Code, Codex, Gemini CLI and other local coding agents from your terminal.
-
-<p align="center">
-  <a href="https://github.com/kannandreams/agent-top">View Project →</a>
-</p>
 
 </td>
 
@@ -60,16 +57,12 @@ Monitor Claude Code, Codex, Gemini CLI and other local coding agents from your t
 </p>
 
 <h3 align="center">
-  <a href="https://github.com/kannandreams/tuff">Tuff</a>
+  <a href="https://tuffcli.dev">Tuff</a>
 </h3>
 
 <p align="center"><strong>Capability Lifecycle Manager for Agents</strong></p>
 
 Define, manage and distribute skills, tools, hooks and reusable agent capabilities.
-
-<p align="center">
-  <a href="https://github.com/kannandreams/tuff">View Project →</a>
-</p>
 
 </td>
 </tr>
@@ -82,16 +75,13 @@ Define, manage and distribute skills, tools, hooks and reusable agent capabiliti
 </p>
 
 <h3 align="center">
-  <a href="https://github.com/kannandreams/secchi">Secchi</a>
+  <a href="https://secchi.dev">Secchi</a>
 </h3>
 
 <p align="center"><strong>Open Source Package & CLI Analytics</strong></p>
 
 Local-first analytics and observability for open-source packages and command-line tools.
 
-<p align="center">
-  <a href="https://github.com/kannandreams/secchi">View Project →</a>
-</p>
 
 </td>
 
@@ -109,16 +99,8 @@ Local-first analytics and observability for open-source packages and command-lin
 
 Build visualisations closer to your SQL, transformations and data pipeline.
 
-<p align="center">
-  <a href="https://glyf.pages.dev/">View Project →</a>
-</p>
 
 </td>
 </tr>
 </table>
-
-- [agent-top - htop for local coding agents](https://github.com/kannandreams/agent-top)
-- [tuff - Capability Lifecycle Manager for Agents](https://github.com/kannandreams/tuff)
-- [Secchi - Open Source Package & CLI Analytics](https://github.com/kannandreams/secchi)
-- [glyf - Open Source Visualisation build tool to data pipeline](https://glyf.pages.dev)
 
