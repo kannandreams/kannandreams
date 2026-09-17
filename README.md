@@ -92,7 +92,7 @@ Local-first analytics and observability for open-source packages and command-lin
 </p>
 
 <h3 align="center">
-  <a href="https://glyf.pages.dev/">glyf</a>
+  <a href="https://glyfdata.com/">glyf</a>
 </h3>
 
 <p align="center"><strong>Visualisation build tool for data pipelines</strong></p>
