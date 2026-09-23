@@ -4,7 +4,7 @@
 <img width="80" height="80" alt="meditating-avatar" src="https://github.com/user-attachments/assets/7b44d98a-7b92-4fe9-a82b-529d05e0562f" />
 
 
-› Pi-shaped Software Engineer was coding from 2005. <br>
+› Pi-shaped Software Engineer was coding from 2002. <br>
 › Specialized in Data Engineering, Analytics, and Machine Learning in Production. I am Data Guy by profession. <br>
 › Worked for <100 people StartUps to 10000+ people Enterprises. <br>
 › Data Engineering & Machine Learning/AI experience is a perfect combo. I love to build Data Products / Infra. <br>
