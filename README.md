@@ -1,106 +1,93 @@
-<h1 align="center">Hi , I'm KK <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Hey, I'm KK 👋
 
-<h2 align="left"> About Me</h2>
-<img width="80" height="80" alt="meditating-avatar" src="https://github.com/user-attachments/assets/7b44d98a-7b92-4fe9-a82b-529d05e0562f" />
+```text id="68vd4s"
+software engineer · data + ml/ai · builder by curiosity
+```
+
+## `~/about`
+
+```yaml id="6th4py"
+since: 2002
+working_on: data + ai infrastructure
+
+domains:
+  - data systems
+  - ml/ai
+  - distributed systems
+  - developer tooling
+  - ai agents
+
+exploring_next: robotics 🤖
+
+experience:
+  - startups <100 people
+  - enterprises 10,000+ people
+
+languages: [Python, Rust, தமிழ்]
+
+mode: think → build → iterate
+fuel: decaf mocha extra hot ☕
+fun_fact: "egg puffs 🥟 were my breakfast for years — not anymore"
+recent_learning: "building is easy. getting people to discover and use it is the hard part."
+```
 
 
-› Pi-shaped Software Engineer was coding from 2002. <br>
-› Specialized in Data Engineering, Analytics, and Machine Learning in Production. I am Data Guy by profession. <br>
-› Worked for <100 people StartUps to 10000+ people Enterprises. <br>
-› Data Engineering & Machine Learning/AI experience is a perfect combo. I love to build Data Products / Infra. <br>
-› Highly inclined towards product & strategic thinking that can help to bring the vision to Goals. <br>
-› [ENFJ](https://www.16personalities.com/enfj-personality) (“The Protagonist”) is my personality trait as per the 16 Personalities test. <br>
-› Passionate about technology. <br>
-› I do experimental open source projects. <br>
-› Open to collaborate for open source projects, data consulting for non-profit orgs. <br>
-› Fun fact: I am big fan of Egg Puffs 🥟. It was the only breakfast for many years 😄 but not anymore as habit.
+[Website](https://kannandreams.github.io/) · [LinkedIn](https://www.linkedin.com/in/kannandreams/) · [Newsletter](https://engineersmeetai.substack.com/)
 
-[My Website](https://kannandreams.github.io/) | [LinkedIn](https://www.linkedin.com/in/kannandreams/)
+<sub>Building things to understand how things work.</sub>
 
+---
 
-<p align="left">
-
-<h2><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/d094045b-fe63-4feb-b644-1ce96a5c66dd" />
-Substack Newsletter</h2>
-
-[When Engineers meet AI](https://engineersmeetai.substack.com/) 
-
-Read about how to create scalable, intelligent systems; spanning Data, AI Tooling, Software Engineering, and Engineering Philosophy.
-
-
-
-<h2 align="left"> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/6806ad0a-2049-475b-a928-bafad0c1d1d4" />
- Open Source Projects</h2>
+## Things I'm building
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-<p align="center">
-  <img src="./assets/projects/agent-top.svg" width="72" height="72" alt="agent-top logo">
-</p>
+<td width="25%" valign="top">
+<img src="./assets/projects/agent-top.svg" width="32" alt="agent-top">
 
-<h3 align="center">
-  <a href="https://agenttop.dev">agent-top</a>
-</h3>
+### [agent-top](https://agenttop.dev)
+**htop for coding agents**
 
-<p align="center"><strong>htop for local coding agents</strong></p>
-
-Monitor Claude Code, Codex, Gemini CLI and other local coding agents from your terminal.
-
+Observe local coding agents from your terminal.
 </td>
 
-<td width="50%" valign="top">
+<td width="25%" valign="top">
+<img src="./assets/projects/tuff.svg" width="32" alt="Tuff">
 
-<p align="center">
-  <img src="./assets/projects/tuff.svg" width="72" height="72" alt="Tuff logo">
-</p>
+### [Tuff](https://tuffcli.dev)
+**Capabilities for agents**
 
-<h3 align="center">
-  <a href="https://tuffcli.dev">Tuff</a>
-</h3>
-
-<p align="center"><strong>Capability Lifecycle Manager for Agents</strong></p>
-
-Define, manage and distribute skills, tools, hooks and reusable agent capabilities.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<p align="center">
-  <img src="./assets/projects/secchi.png" width="72" height="72" alt="Secchi logo">
-</p>
-
-<h3 align="center">
-  <a href="https://secchi.dev">Secchi</a>
-</h3>
-
-<p align="center"><strong>Open Source Package & CLI Analytics</strong></p>
-
-Local-first analytics and observability for open-source packages and command-line tools.
-
-
+Manage and govern agent skills, tools, hooks and policies.
 </td>
 
-<td width="50%" valign="top">
+<td width="25%" valign="top">
+<img src="./assets/projects/glyf.png" width="52" alt="Glyf">
 
-<p align="center">
-  <img src="./assets/projects/glyf.png" width="72" height="72" alt="glyf logo">
-</p>
+### [Glyf](https://glyfdata.com)
+**Visualisation as a build step**
 
-<h3 align="center">
-  <a href="https://glyfdata.com/">glyf</a>
-</h3>
-
-<p align="center"><strong>Visualisation build tool for data pipelines</strong></p>
-
-Build visualisations closer to your SQL, transformations and data pipeline.
-
-
+Build charts and dashboards alongside your data pipelines.
 </td>
+
+<td width="25%" valign="top">
+<img src="./assets/projects/secchi.png" width="50" alt="Secchi">
+
+### [Secchi](https://secchi.dev)
+**OSS analytics**
+
+Local-first analytics for packages and CLI tools.
+</td>
+
 </tr>
 </table>
 
+---
+
+## Writing
+
+### [When Engineers Meet AI](https://engineersmeetai.substack.com/)
+
+Notes on **AI agents, data infrastructure, developer tooling, distributed systems, and software engineering**.
+
+---
