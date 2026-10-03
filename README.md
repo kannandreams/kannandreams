@@ -7,7 +7,7 @@ software engineer · data + ml/ai · builder by curiosity
 ## `~/about`
 
 ```yaml id="6th4py"
-since: 2002
+coding_since: 2002
 working_on: data + ai infrastructure
 
 domains:
