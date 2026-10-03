@@ -28,7 +28,7 @@ languages: [Python, Rust, தமிழ்]
 mode: think → build → iterate
 fuel: decaf mocha extra hot ☕
 fun_fact: "egg puffs 🥟 were my breakfast for years — not anymore"
-recent_learning: "building is easy. getting people to discover and use it is the hard part."
+recent_learning: "building is easy. marketing is hard."
 believes_in:
   tamil: "தெய்வத்தான் ஆகா தெனினும் முயற்சிதன் மெய்வருத்தக் கூலி தரும்"
   meaning: "Even when fate says no, effort still pays its due."
