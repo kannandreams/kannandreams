@@ -17,7 +17,7 @@ domains:
   - developer tooling
   - ai agents
 
-exploring_next: robotics 🤖
+exploring_next: "truncate -s 1T life.img"
 
 experience:
   - startups <100 people
